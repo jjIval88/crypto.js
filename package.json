@@ -3,3 +3,5 @@
   "title": "crypto-js",
  "description": "JavaScript library of crypto standards.",
 "version": "4.1.1",
+  "author": {
+    "name": "Evan Vosberg",
