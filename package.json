@@ -12,3 +12,5 @@
     "url": "http://github.com/brix/crypto-js.git"
   },
   "repository": {
+    "type": "git",
+    "url": "http://github.com/brix/crypto-js.git"
