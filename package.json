@@ -21,3 +21,5 @@
   "license": "MIT",
   "scripts": {
     "build": "grunt build",
+    "test": "grunt default"
+  },
