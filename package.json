@@ -27,3 +27,4 @@
   "browser": {
     "crypto": false
   },
+  "dependencies": {},
