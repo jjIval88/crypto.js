@@ -51,3 +51,5 @@
     "SHA-256",
     "RC4",
     "Rabbit",
+    "AES",
+    "DES",
