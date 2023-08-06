@@ -53,3 +53,5 @@
     "Rabbit",
     "AES",
     "DES",
+    "PBKDF2",
+    "HMAC",
