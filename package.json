@@ -55,3 +55,5 @@
     "DES",
     "PBKDF2",
     "HMAC",
+    "OFB",
+    "CFB",
