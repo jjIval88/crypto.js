@@ -57,3 +57,5 @@
     "HMAC",
     "OFB",
     "CFB",
+    "CTR",
+    "CBC",
