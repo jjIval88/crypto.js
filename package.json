@@ -59,3 +59,5 @@
     "CFB",
     "CTR",
     "CBC",
+    "Base64",
+    "Base64url"
