@@ -11,3 +11,5 @@ module.exports = function (grunt) {
         configPath: path.join(process.cwd(), 'grunt/config'),
         config: {
             pkg: grunt.file.readJSON('package.json'),
+            meta: {
+                cwd: '',
