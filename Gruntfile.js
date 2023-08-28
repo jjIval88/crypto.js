@@ -14,3 +14,5 @@ module.exports = function (grunt) {
             meta: {
                 cwd: '',
                 cwdAll: '**/*',
+
+                source: 'src/',
