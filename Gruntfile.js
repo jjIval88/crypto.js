@@ -16,3 +16,4 @@ module.exports = function (grunt) {
                 cwdAll: '**/*',
 
                 source: 'src/',
+                sourceAll: 'src/**/*',
