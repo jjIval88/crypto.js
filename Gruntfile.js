@@ -17,3 +17,5 @@ module.exports = function (grunt) {
 
                 source: 'src/',
                 sourceAll: 'src/**/*',
+
+                build: 'build/',
