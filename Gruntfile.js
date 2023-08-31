@@ -19,3 +19,4 @@ module.exports = function (grunt) {
                 sourceAll: 'src/**/*',
 
                 build: 'build/',
+                buildAll: 'build/**/*',
