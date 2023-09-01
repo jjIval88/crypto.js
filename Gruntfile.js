@@ -20,3 +20,5 @@ module.exports = function (grunt) {
 
                 build: 'build/',
                 buildAll: 'build/**/*',
+
+                test: 'test/',
