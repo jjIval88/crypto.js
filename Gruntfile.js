@@ -23,3 +23,5 @@ module.exports = function (grunt) {
 
                 test: 'test/',
                 testAll: 'test/**/*',
+
+                npm: 'node_modules/',
