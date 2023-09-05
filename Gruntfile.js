@@ -27,3 +27,5 @@ module.exports = function (grunt) {
                 npm: 'node_modules/',
                 npmAll: 'node_modules/**/*'
             }
+        }
+    });
