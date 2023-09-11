@@ -37,3 +37,5 @@ module.exports = function (grunt) {
 
     grunt.registerTask('build', 'Build a bundle', [
         'clean:build',
+        'modularize:build',
+        'copy:build',
