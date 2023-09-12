@@ -39,3 +39,4 @@ module.exports = function (grunt) {
         'clean:build',
         'modularize:build',
         'copy:build',
+       'update_json:npm',
