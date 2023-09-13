@@ -40,3 +40,6 @@ module.exports = function (grunt) {
         'modularize:build',
         'copy:build',
        'update_json:npm',
+    ]);
+
+    grunt.registerTask('default', 'Run code checker', [
