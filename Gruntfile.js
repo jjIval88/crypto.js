@@ -43,3 +43,4 @@ module.exports = function (grunt) {
     ]);
 
     grunt.registerTask('default', 'Run code checker', [
+        'jsonlint',
