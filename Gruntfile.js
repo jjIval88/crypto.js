@@ -46,3 +46,5 @@ module.exports = function (grunt) {
         'jsonlint',
         'jshint'
     ]);
+
+};
