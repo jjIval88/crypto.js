@@ -4,3 +4,4 @@
   "eqeqeq": false, // Prohibits the use of == and != in favor of === and !==
   "eqnull": true, // Suppresses warnings about == null comparisons
   "immed": true, // Requires immediate invocations to be wrapped in parens e.g. `(function () { } ());`
+  "latedef": false, // Prohibits the use of a variable before it was defined
