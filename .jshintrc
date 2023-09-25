@@ -6,3 +6,4 @@
   "immed": true, // Requires immediate invocations to be wrapped in parens e.g. `(function () { } ());`
   "latedef": false, // Prohibits the use of a variable before it was defined
   "newcap": false, // Requires to capitalize names of constructor functions
+  "noarg": true, // Prohibits the use of arguments.caller and arguments.callee
