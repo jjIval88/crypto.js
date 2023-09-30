@@ -12,3 +12,5 @@
   "asi": true, // Suppresses warnings about missing semicolons
   "funcscope": false,
   "shadow": true,
+  "expr": true,
+  "-W041": true,
