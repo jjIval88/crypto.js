@@ -16,3 +16,4 @@
   "-W041": true,
   "-W018": true,
   "globals": {
+    "CryptoJS": true,
