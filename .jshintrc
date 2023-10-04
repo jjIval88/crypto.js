@@ -18,3 +18,4 @@
   "globals": {
     "CryptoJS": true,
     "escape": true,
+    "unescape": true,
