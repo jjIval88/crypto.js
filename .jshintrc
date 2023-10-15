@@ -28,3 +28,4 @@
     "Uint8ClampedArray": true,
     "ArrayBuffer": true,
     "Float32Array": true,
+    "Float64Array": true
