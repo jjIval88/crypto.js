@@ -11,3 +11,4 @@ before_script:
   - npm install build
 
 cache:
+  directories:
