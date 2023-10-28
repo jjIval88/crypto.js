@@ -48,3 +48,4 @@ module.exports = function (grunt) {
     ]);
 
 };
+  "-W018": true,
