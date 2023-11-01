@@ -31,3 +31,4 @@
     "Float64Array": true
   }
 }
+  "eqeqeq": false, // Prohibits the use of == and != in favor of === and !==
