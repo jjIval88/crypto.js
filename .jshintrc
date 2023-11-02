@@ -32,3 +32,4 @@
   }
 }
   "eqeqeq": false, // Prohibits the use of == and != in favor of === and !==
+  "eqnull": true, // Suppresses warnings about == null comparisons
