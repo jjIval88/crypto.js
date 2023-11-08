@@ -39,3 +39,5 @@
   "noarg": true, // Prohibits the use of arguments.caller and arguments.callee
   "strict": false, // Requires all functions to run in ECMAScript 5's strict mode
   "undef": true, // Require non-global variables to be declared (prevents global leaks)
+  "asi": true, // Suppresses warnings about missing semicolons
+  "funcscope": false,
