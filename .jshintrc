@@ -41,3 +41,5 @@
   "undef": true, // Require non-global variables to be declared (prevents global leaks)
   "asi": true, // Suppresses warnings about missing semicolons
   "funcscope": false,
+  "shadow": true,
+  "expr": true,
