@@ -43,3 +43,5 @@
   "funcscope": false,
   "shadow": true,
   "expr": true,
+  "-W041": true,
+  "-W018": true,
