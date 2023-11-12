@@ -48,3 +48,5 @@
   "globals": {
     "CryptoJS": true,
     "escape": true,
+    "unescape": true,
+    "Int8Array": true,
