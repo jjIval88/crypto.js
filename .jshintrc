@@ -50,3 +50,4 @@
     "escape": true,
     "unescape": true,
     "Int8Array": true,
+    "Int16Array": true,
