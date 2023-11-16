@@ -55,3 +55,4 @@
     "Uint8Array": true,
     "Uint16Array": true,
     "Uint32Array": true,
+    "Uint8ClampedArray": true,
