@@ -6,3 +6,4 @@ module.exports = {
     build: [
         '<%= meta.build %>'
     ]
+};
