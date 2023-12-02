@@ -5,3 +5,5 @@
 module.exports = {
     build: {
         files: [{
+            expand: false,
+            cwd: '<%= meta.cwd %>',
