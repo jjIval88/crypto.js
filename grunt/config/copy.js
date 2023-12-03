@@ -7,3 +7,5 @@ module.exports = {
         files: [{
             expand: false,
             cwd: '<%= meta.cwd %>',
+            src: [
+                'README.md',
