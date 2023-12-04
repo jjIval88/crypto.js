@@ -9,3 +9,4 @@ module.exports = {
             cwd: '<%= meta.cwd %>',
             src: [
                 'README.md',
+                'CONTRIBUTING.md',
