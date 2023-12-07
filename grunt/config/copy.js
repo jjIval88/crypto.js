@@ -10,3 +10,4 @@ module.exports = {
             src: [
                 'README.md',
                 'CONTRIBUTING.md',
+                'LICENSE',
