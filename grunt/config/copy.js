@@ -11,3 +11,4 @@ module.exports = {
                 'README.md',
                 'CONTRIBUTING.md',
                 'LICENSE',
+                'docs/**/*'
