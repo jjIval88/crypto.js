@@ -12,3 +12,4 @@ module.exports = {
                 'CONTRIBUTING.md',
                 'LICENSE',
                 'docs/**/*'
+            ],
